@@ -1,0 +1,1 @@
+<h1>Front shop mall UI</h1>
